@@ -1,0 +1,12 @@
+{
+	"slug" : "exercise-todo-list-react-context",
+	"title" : "Create a Todolist with Context.API and Flux",
+	"description": "Use Flux for the first time, learn how to organize you application in a centralized store and how to replicate changes and notify using the Context.API",
+	"status": "published",
+	"translations": ["es", "us"],
+	"difficulty": "intermediate",
+	"preview": "https://github.com/breatheco-de/exercise-todo-list-react-context/blob/main/preview.png?raw=true",
+	"duration" : 8,
+	"technologies": ["react.js", "context api", "flux"],
+	"talents": []
+}
