@@ -8,5 +8,6 @@
 	"preview": "https://github.com/breatheco-de/exercise-todo-list-react-context/blob/main/preview.png?raw=true",
 	"duration" : 8,
 	"technologies": ["react.js", "context api", "flux"],
+    "projectType": "project",
 	"talents": []
 }
