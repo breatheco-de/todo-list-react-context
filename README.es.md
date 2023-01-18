@@ -12,7 +12,7 @@ No clones este repositorio.
 
 El primer paso para empezar a codificar es clonando el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu computador local, o abrirlo utilizando Gitpod.
 
-a) Si usas Gitpod (recomendado) puedes clonar el `boilerplate` [dándole clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
+a) Si usas Gitpod (recomendado) puedes clonar el `boilerplate` dándole [clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
 
 b) Si estas trabajando localmente, escribe el siguiente comando desde tu línea de comandos: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`. 
 
@@ -40,4 +40,4 @@ No vayas directo al código, piensa primero y ten una estrategia viable.
 
 + ¿Dónde se almacenarán las tareas en tu componente?
 
-- Lee acerca de [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c), necesitarás comprender el concepto.
++ Lee acerca de [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c), necesitarás comprender el concepto.
