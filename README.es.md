@@ -6,7 +6,7 @@
 
 Crea una aplicación de un `TODO list` (lista de cosas por hacer) que le permita a los usuarios agregar y eliminar `tasks` (tareas), pero utilizando la API de contexto con un `store` (almacenamiento) centralizado y funciones de acción.
 
-<onlyfor saas="false" withBanner="false"
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱  Como empezar este proyecto
 
