@@ -6,7 +6,7 @@
 
 Create a TODO list application that allows users to add and delete tasks but using the context API with a centralized store and action functions.
 
-<onlyfor saas="false" withBanner="false"
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱  How to start this project
 
