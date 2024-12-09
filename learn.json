@@ -7,7 +7,7 @@
 	"difficulty": "intermediate",
 	"preview": "https://github.com/breatheco-de/exercise-todo-list-react-context/blob/main/preview.png?raw=true",
 	"duration" : 8,
-	"template_url": "https://github.com/4GeeksAcademy/react-hello",
+	"template_url": "https://github.com/4GeeksAcademy/react-hello-webapp",
 	"technologies": ["react.js", "context api", "flux"],
     "projectType": "project",
 	"talents": []
