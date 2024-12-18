@@ -10,5 +10,6 @@
 	"template_url": "https://github.com/4GeeksAcademy/react-hello-webapp",
 	"technologies": ["react.js", "context api", "flux"],
     "projectType": "project",
+	"autoPlay": "false",
 	"talents": []
 }

@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) React TODO application
+<!-- hide -->
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Aplicación TODO en React
+<!-- endhide -->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
@@ -8,15 +10,17 @@ Crea una aplicación de un `TODO list` (lista de cosas por hacer) que le permita
 
 <onlyfor saas="false" withBanner="false">
 
-## 🌱  Como empezar este proyecto
+## 🌱  Cómo empezar este proyecto
 
-No clones este repositorio.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-El primer paso para empezar a codificar es clonando el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) en tu computador local, o abrirlo utilizando Gitpod.
+Recomendamos abrir el `react.js boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonar el repositorio de [GitHub](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github) en tu computadora local utilizando el comando `git clone`.  
 
-a) Si usas Gitpod (recomendado) puedes clonar el `boilerplate` dándole [clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
+Este es el repositorio que necesitas abrir o clonar:  
 
-b) Si estas trabajando localmente, escribe el siguiente comando desde tu línea de comandos: `git clone https://github.com/4GeeksAcademy/react-hello-webapp`. 
+```sh
+$ git clone https://github.com/4GeeksAcademy/react-hello-webapp
+```
 
 🔎 Importante: recuerda crear un nuevo repositorio, actualiza el URL remoto (`git remote set-url origin <your new url>`), y sube el código a tu nuevo repositorio utilizando `add` (añadir), `commit` (realizar) y `push` (expulsar).
 
